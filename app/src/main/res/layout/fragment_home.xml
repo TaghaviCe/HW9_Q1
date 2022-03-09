@@ -34,7 +34,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:layout_margin="5dp"
-                android:background="@drawable/one" />
+                android:background="@drawable/pictureone" />
 
             <ImageView
                 android:id="@+id/imageView2"
@@ -42,7 +42,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:layout_margin="5dp"
-                android:background="@drawable/pic_c" />
+                android:background="@drawable/picturecc" />
 
             <ImageView
                 android:id="@+id/imageView3"
@@ -50,7 +50,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:layout_margin="5dp"
-                android:background="@drawable/pic_b"/>
+                android:background="@drawable/picturebb"/>
         </LinearLayout>
 
         <LinearLayout
@@ -118,7 +118,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:layout_margin="5dp"
-                android:background="@drawable/pic_d"/>
+                android:background="@drawable/picturedd"/>
 
             <ImageView
                 android:id="@+id/imageView5"
@@ -126,7 +126,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:layout_margin="5dp"
-                android:background="@drawable/pic_e"/>
+                android:background="@drawable/pictureee"/>
 
             <ImageView
                 android:id="@+id/imageView6"
@@ -134,7 +134,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:layout_margin="5dp"
-               android:background="@drawable/pic_s" />
+               android:background="@drawable/picturess" />
         </LinearLayout>
 
         <LinearLayout
@@ -201,7 +201,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:layout_margin="5dp"
-                android:background="@drawable/pic_q" />
+                android:background="@drawable/pictureqq" />
 
             <ImageView
                 android:id="@+id/imageView8"
@@ -209,7 +209,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:layout_margin="5dp"
-                android:background="@drawable/pic_t" />
+                android:background="@drawable/picturett" />
 
             <ImageView
                 android:id="@+id/imageView9"
@@ -217,7 +217,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:layout_margin="5dp"
-                android:background="@drawable/pic_c" />
+                android:background="@drawable/picturecc" />
         </LinearLayout>
 
         <LinearLayout
@@ -282,7 +282,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:layout_margin="5dp"
-               android:background="@drawable/pic_z" />
+               android:background="@drawable/picturez" />
 
             <ImageView
                 android:id="@+id/imageView11"
@@ -290,7 +290,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:layout_margin="5dp"
-                android:background="@drawable/two"/>
+                android:background="@drawable/picturetwo"/>
 
             <ImageView
                 android:id="@+id/imageView12"
@@ -298,7 +298,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:layout_margin="5dp"
-                android:background="@drawable/pic_g" />
+                android:background="@drawable/picturegg" />
         </LinearLayout>
 
         <LinearLayout

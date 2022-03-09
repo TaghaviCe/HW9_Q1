@@ -34,7 +34,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:layout_margin="5dp"
-                android:background="@drawable/one" />
+                android:background="@drawable/pictureone" />
 
             <ImageView
                 android:id="@+id/imageView2"
@@ -42,7 +42,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:layout_margin="5dp"
-                android:background="@drawable/pic_c" />
+                android:background="@drawable/picturecc" />
 
             <ImageView
                 android:id="@+id/imageView3"
@@ -50,7 +50,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:layout_margin="5dp"
-                android:background="@drawable/pic_b"/>
+                android:background="@drawable/picturebb"/>
         </LinearLayout>
 
         <LinearLayout
